@@ -1,0 +1,576 @@
+Philippines,12.7503486,122.7312101,flood 
+Vanuatu,-16.5255069,168.1069154,hurricane 
+Vanuatu,-16.5255069,168.1069154,hurricane 
+South Asia,-32.173511,-61.7130193,drought 
+Wisconsin,44.4308975,-89.6884637,flood 
+Wisconsin,44.4308975,-89.6884637,flood 
+New York City,40.7127281,-74.0060152,flood 
+United Kingdom,54.7023545,-3.2765753,earthquake 
+Philippines,12.7503486,122.7312101,flood 
+Vanuatu,-16.5255069,168.1069154,hurricane 
+São Paulo,-23.5506507,-46.6333824,flood 
+São Paulo,-23.5506507,-46.6333824,flood 
+Rio de Janeiro,-22.9110137,-43.2093727,flood 
+Rio de Janeiro,-22.9110137,-43.2093727,flood 
+Yemen,16.3471243,47.8915271,drought 
+Sudan,14.5844444,29.4917691,drought 
+Libya,26.8234472,18.1236723,drought 
+Somalia,8.3676771,49.083416,drought 
+Somalia,8.3676771,49.083416,drought 
+Florence,43.7698712,11.2555757,fire 
+Japan,36.5748441,139.2394179,earthquake 
+Japan,36.5748441,139.2394179,tsunami 
+United Kingdom,54.7023545,-3.2765753,flood 
+Mobile, Alabama,30.6943566,-88.0430541,earthquake 
+Colorado,38.7251776,-105.6077167,hurricane 
+The Bahamas,24.7736546,-78.0000547,hurricane 
+United States,39.7837304,-100.4458825,hurricane 
+Florence,43.7698712,11.2555757,hurricane 
+Nepal,28.1083929,84.0917139,earthquake 
+Pakistan,30.3308401,71.247499,flood 
+Afghanistan,33.7680065,66.2385139,flood 
+Brazil,-10.3333333,-53.2,flood 
+Pakistan,30.3308401,71.247499,flood 
+Afghanistan,33.7680065,66.2385139,flood 
+Spain,39.3262345,-4.8380649,flood 
+The Bahamas,24.7736546,-78.0000547,hurricane 
+The Bahamas,24.7736546,-78.0000547,hurricane 
+Colorado,38.7251776,-105.6077167,hurricane 
+Northern Ireland,54.6294982,-6.7654416,hurricane 
+Canada,61.0666922,-107.9917071,hurricane 
+Pakistan,30.3308401,71.247499,fire 
+Afghanistan,33.7680065,66.2385139,fire 
+South Asia,-32.173511,-61.7130193,drought 
+Sarasota, Florida,27.3364347,-82.5306527,hurricane 
+Kobe,34.6932379,135.1943764,hurricane 
+Wrocław,51.1263106,16.97819633051261,hurricane 
+Kobe,34.6932379,135.1943764,earthquake 
+Wrocław,51.1263106,16.97819633051261,earthquake 
+Japan,36.5748441,139.2394179,fire 
+Japan,36.5748441,139.2394179,earthquake 
+Vanuatu,-16.5255069,168.1069154,hurricane 
+Kabwe,-14.441525,28.4441831,drought 
+Kabwe,-14.441525,28.4441831,flood 
+United States,39.7837304,-100.4458825,flood 
+United States,39.7837304,-100.4458825,flood 
+Colorado,38.7251776,-105.6077167,hurricane 
+The Bahamas,24.7736546,-78.0000547,hurricane 
+California,36.7014631,-118.7559974,hurricane 
+Chennai,13.0801721,80.2838331,hurricane 
+California,36.7014631,-118.7559974,hurricane 
+Chennai,13.0801721,80.2838331,hurricane 
+California,36.7014631,-118.7559974,fire 
+Chennai,13.0801721,80.2838331,fire 
+Puerto Rico,18.2214149,-66.41328179513847,fire 
+United States,39.7837304,-100.4458825,flood 
+United Nations,40.75026105,-73.96719495316776,flood 
+New Orleans,29.9499323,-90.0701156,flood 
+Christchurch,-43.530955,172.6366455,earthquake 
+Barbados,13.1500331,-59.5250305,flood 
+Saint Vincent and the Grenadines,12.90447,-61.2765569,flood 
+Dominica,19.0974031,-70.3028026,flood 
+Florida,27.7567667,-81.4639835,hurricane 
+British Virgin Islands,18.4024395,-64.5661642,hurricane 
+Saint Lucia,13.8250489,-60.975036,hurricane 
+Nashville, Tennessee,36.1622296,-86.7743531,tornado 
+Nashville, Tennessee,36.1622296,-86.7743531,fire 
+Japan,36.5748441,139.2394179,earthquake 
+New Orleans,29.9499323,-90.0701156,fire 
+Japan,36.5748441,139.2394179,flood 
+Japan,36.5748441,139.2394179,flood 
+Tokyo,35.6828387,139.7594549,flood 
+Tokyo,35.6828387,139.7594549,flood 
+Switzerland,46.7985624,8.2319736,flood 
+Japan,36.5748441,139.2394179,hurricane 
+Switzerland,46.7985624,8.2319736,flood 
+United States,39.7837304,-100.4458825,flood 
+United States,39.7837304,-100.4458825,flood 
+Nigeria,9.6000359,7.9999721,flood 
+Galveston, Texas,29.3872254,-94.992736,hurricane 
+Texas,31.8160381,-99.5120986,hurricane 
+Galveston, Texas,29.3872254,-94.992736,fire 
+San Francisco,37.7790262,-122.4199061,fire 
+United States,39.7837304,-100.4458825,fire 
+Boston,42.3602534,-71.0582912,fire 
+San Francisco,37.7790262,-122.4199061,earthquake 
+Madagascar,-18.9249604,46.4416422,hurricane 
+Philippines,12.7503486,122.7312101,hurricane 
+Madagascar,-18.9249604,46.4416422,earthquake 
+Philippines,12.7503486,122.7312101,earthquake 
+Sri Lanka,7.5554942,80.7137847,earthquake 
+Japan,36.5748441,139.2394179,earthquake 
+Japan,36.5748441,139.2394179,earthquake 
+California,36.7014631,-118.7559974,earthquake 
+Japan,36.5748441,139.2394179,earthquake 
+Japan,36.5748441,139.2394179,flood 
+United States,39.7837304,-100.4458825,hurricane 
+Florence,43.7698712,11.2555757,hurricane 
+United States,39.7837304,-100.4458825,hurricane 
+Florence,43.7698712,11.2555757,hurricane 
+Australia,-24.7761086,134.755,drought 
+Australia,-24.7761086,134.755,drought 
+Australia,-24.7761086,134.755,drought 
+Australia,-24.7761086,134.755,drought 
+Australia,-24.7761086,134.755,drought 
+Australia,-24.7761086,134.755,fire 
+Australia,-24.7761086,134.755,fire 
+Australia,-24.7761086,134.755,fire 
+Australia,-24.7761086,134.755,fire 
+Australia,-24.7761086,134.755,fire 
+Australia,-24.7761086,134.755,drought 
+Australia,-24.7761086,134.755,drought 
+Australia,-24.7761086,134.755,fire 
+Australia,-24.7761086,134.755,fire 
+Colorado,38.7251776,-105.6077167,hurricane 
+Colorado,38.7251776,-105.6077167,hurricane 
+New Zealand,-41.5000831,172.8344077,hurricane 
+Vanuatu,-16.5255069,168.1069154,hurricane 
+Vanuatu,-16.5255069,168.1069154,hurricane 
+Harrisburg, Pennsylvania,40.2663107,-76.8861122,tornado 
+Harrisburg, Pennsylvania,40.2663107,-76.8861122,tornado 
+Christchurch,-43.530955,172.6366455,earthquake 
+New Zealand,-41.5000831,172.8344077,earthquake 
+Philippines,12.7503486,122.7312101,hurricane 
+Philippines,12.7503486,122.7312101,earthquake 
+Philippines,12.7503486,122.7312101,earthquake 
+Philippines,12.7503486,122.7312101,earthquake 
+Nepal,28.1083929,84.0917139,hurricane 
+Nepal,28.1083929,84.0917139,earthquake 
+Nepal,28.1083929,84.0917139,earthquake 
+Nepal,28.1083929,84.0917139,hurricane 
+Mexico,19.4326296,-99.1331785,hurricane 
+Puerto Rico,18.2214149,-66.41328179513847,hurricane 
+Nepal,28.1083929,84.0917139,earthquake 
+Mexico,19.4326296,-99.1331785,earthquake 
+Puerto Rico,18.2214149,-66.41328179513847,earthquake 
+Nepal,28.1083929,84.0917139,earthquake 
+Mexico,19.4326296,-99.1331785,earthquake 
+Puerto Rico,18.2214149,-66.41328179513847,earthquake 
+Anchorage, Alaska,61.2163129,-149.8948523,earthquake 
+Australia,-24.7761086,134.755,fire 
+Australia,-24.7761086,134.755,drought 
+Australia,-24.7761086,134.755,drought 
+Australia,-24.7761086,134.755,drought 
+Australia,-24.7761086,134.755,drought 
+Australia,-24.7761086,134.755,drought 
+Australia,-24.7761086,134.755,fire 
+Australia,-24.7761086,134.755,fire 
+Australia,-24.7761086,134.755,fire 
+Australia,-24.7761086,134.755,fire 
+Australia,-24.7761086,134.755,fire 
+Illinois,40.0796606,-89.4337288,flood 
+Illinois,40.0796606,-89.4337288,tornado 
+Italy,42.6384261,12.674297,flood 
+Capitola, California,36.9762927,-121.9540577,flood 
+Venice,45.4371908,12.3345898,flood 
+Japan,36.5748441,139.2394179,earthquake 
+Japan,36.5748441,139.2394179,tsunami 
+California,36.7014631,-118.7559974,fire 
+California,36.7014631,-118.7559974,fire 
+Butte County, California,39.6519275,-121.5858444,fire 
+California,36.7014631,-118.7559974,fire 
+United States,39.7837304,-100.4458825,fire 
+West Monroe, Louisiana,32.5184775,-92.1476353,tornado 
+Sterlington, Louisiana,32.6944321,-92.0760295,tornado 
+Japan,36.5748441,139.2394179,earthquake 
+Japan,36.5748441,139.2394179,earthquake 
+California,36.7014631,-118.7559974,hurricane 
+Chennai,13.0801721,80.2838331,hurricane 
+California,36.7014631,-118.7559974,hurricane 
+Chennai,13.0801721,80.2838331,hurricane 
+California,36.7014631,-118.7559974,fire 
+Chennai,13.0801721,80.2838331,fire 
+Puerto Rico,18.2214149,-66.41328179513847,fire 
+Washington (state),47.2868352,-120.2126139,flood 
+Taholah, Washington,47.3473047,-124.29324,flood 
+Ethiopia,10.2116702,38.6521203,drought 
+Egypt,26.2540493,29.2675469,drought 
+Ethiopia,10.2116702,38.6521203,drought 
+Egypt,26.2540493,29.2675469,drought 
+Washington (state),47.2868352,-120.2126139,flood 
+Taholah, Washington,47.3473047,-124.29324,flood 
+Washington (state),47.2868352,-120.2126139,flood 
+Taholah, Washington,47.3473047,-124.29324,flood 
+Washington (state),47.2868352,-120.2126139,flood 
+Taholah, Washington,47.3473047,-124.29324,flood 
+California,36.7014631,-118.7559974,hurricane 
+Chennai,13.0801721,80.2838331,hurricane 
+California,36.7014631,-118.7559974,hurricane 
+Chennai,13.0801721,80.2838331,hurricane 
+California,36.7014631,-118.7559974,fire 
+Chennai,13.0801721,80.2838331,fire 
+Puerto Rico,18.2214149,-66.41328179513847,fire 
+Colorado,38.7251776,-105.6077167,hurricane 
+Mississippi,32.9715645,-89.7348497,tornado 
+Texas,31.8160381,-99.5120986,tornado 
+Maine,45.709097,-68.8590201,tornado 
+Wisconsin,44.4308975,-89.6884637,tornado 
+Illinois,40.0796606,-89.4337288,tornado 
+Indiana,40.3270127,-86.1746933,tornado 
+Washington (state),47.2868352,-120.2126139,flood 
+Russia,64.6863136,97.7453061,flood 
+Japan,36.5748441,139.2394179,earthquake 
+Japan,36.5748441,139.2394179,earthquake 
+Japan,36.5748441,139.2394179,earthquake 
+East Africa,45.4690945,-73.6189681,drought 
+Saudi Arabia,25.6242618,42.3528328,drought 
+Yemen,16.3471243,47.8915271,drought 
+Australia,-24.7761086,134.755,fire 
+Australia,-24.7761086,134.755,drought 
+Australia,-24.7761086,134.755,flood 
+Albania,41.000028,19.9999619,flood 
+Bulgaria,42.6073975,25.4856617,flood 
+Turkey,38.9597594,34.9249653,flood 
+Algeria,28.0000272,2.9999825,flood 
+Ukraine,49.4871968,31.2718321,flood 
+Egypt,26.2540493,29.2675469,flood 
+Australia,-24.7761086,134.755,fire 
+Australia,-24.7761086,134.755,fire 
+Albania,41.000028,19.9999619,fire 
+Bulgaria,42.6073975,25.4856617,fire 
+Turkey,38.9597594,34.9249653,fire 
+Algeria,28.0000272,2.9999825,fire 
+Moldova,47.2879608,28.5670941,fire 
+Pakistan,30.3308401,71.247499,earthquake 
+Lagos,20.0171109,103.378253,fire 
+Enugu,6.5536094,7.4143061,fire 
+Lagos,20.0171109,103.378253,fire 
+Enugu,6.5536094,7.4143061,fire 
+Ibadan,7.3777462,3.8972497,fire 
+Duluth, Minnesota,46.7729322,-92.1251218,flood 
+Egypt,26.2540493,29.2675469,flood 
+South Dakota,44.6471761,-100.348761,fire 
+Georgia (U.S. state),41.6322992,45.6907713,hurricane 
+Georgia (U.S. state),41.6322992,45.6907713,tornado 
+Georgia (U.S. state),41.6322992,45.6907713,earthquake 
+Japan,36.5748441,139.2394179,earthquake 
+Japan,36.5748441,139.2394179,earthquake 
+Osaka,34.6198813,135.490357,earthquake 
+California,36.7014631,-118.7559974,earthquake 
+Los Angeles,34.0536909,-118.2427666,earthquake 
+California,36.7014631,-118.7559974,earthquake 
+United States,39.7837304,-100.4458825,earthquake 
+Southeast Asia,51.7835586,-1.4887629091318098,drought 
+Australia,-24.7761086,134.755,drought 
+Australia,-24.7761086,134.755,fire 
+United States,39.7837304,-100.4458825,drought 
+Amazon basin,-3.0,-62.0,drought 
+Caribbean,18.4,-75.0,drought 
+United States,39.7837304,-100.4458825,drought 
+Southwestern United States,32.82315945,-96.84017161749014,drought 
+Yuan dynasty,35.254102,-81.663984,drought 
+China,35.000074,104.999927,drought 
+Caribbean,18.4,-75.0,drought 
+Brazil,-10.3333333,-53.2,drought 
+South America,-21.0002179,-61.0006565,drought 
+Ancient Egypt,1.2536728,103.8228404,drought 
+Egypt,26.2540493,29.2675469,drought 
+Egypt,26.2540493,29.2675469,drought 
+South America,-21.0002179,-61.0006565,drought 
+Ancient Egypt,1.2536728,103.8228404,drought 
+Egypt,26.2540493,29.2675469,drought 
+Egypt,26.2540493,29.2675469,drought 
+Kyoto,35.021041,135.7556075,fire 
+Japan,36.5748441,139.2394179,fire 
+Kyoto,35.021041,135.7556075,earthquake 
+Japan,36.5748441,139.2394179,earthquake 
+Tokyo,35.6828387,139.7594549,earthquake 
+United States,39.7837304,-100.4458825,fire 
+Florida,27.7567667,-81.4639835,hurricane 
+California,36.7014631,-118.7559974,fire 
+California,36.7014631,-118.7559974,fire 
+California,36.7014631,-118.7559974,fire 
+Louisiana,30.8703881,-92.007126,flood 
+California,36.7014631,-118.7559974,flood 
+Las Vegas,36.1672559,-115.1485163,flood 
+California,36.7014631,-118.7559974,fire 
+Las Vegas,36.1672559,-115.1485163,fire 
+Tennessee,35.7730076,-86.2820081,tornado 
+Tennessee,35.7730076,-86.2820081,tornado 
+Peru,-6.8699697,-75.0458515,fire 
+Peru,-6.8699697,-75.0458515,fire 
+Norfolk, Virginia,36.8462923,-76.2929252,tornado 
+San Francisco,37.7790262,-122.4199061,earthquake 
+Washington (state),47.2868352,-120.2126139,flood 
+Taholah, Washington,47.3473047,-124.29324,flood 
+Trabzon,40.8849863,39.822206,flood 
+Turkey,38.9597594,34.9249653,flood 
+Trabzon,40.8849863,39.822206,flood 
+Turkey,38.9597594,34.9249653,flood 
+Turkey,38.9597594,34.9249653,flood 
+Jews,-30.55420355,151.9040774,flood 
+Spain,39.3262345,-4.8380649,flood 
+Mongolia,46.8250388,103.8499736,flood 
+Jews,-30.55420355,151.9040774,fire 
+Spain,39.3262345,-4.8380649,fire 
+Switzerland,46.7985624,8.2319736,earthquake 
+Ancient Rome,49.81954,73.0514492,earthquake 
+Paradise, California,39.7596061,-121.6219177,fire 
+California,36.7014631,-118.7559974,fire 
+Afghanistan,33.7680065,66.2385139,flood 
+Indonesia,-2.4833826,117.8902853,flood 
+Afghanistan,33.7680065,66.2385139,flood 
+Afghanistan,33.7680065,66.2385139,flood 
+Afghanistan,33.7680065,66.2385139,flood 
+Afghanistan,33.7680065,66.2385139,flood 
+Afghanistan,33.7680065,66.2385139,flood 
+Japan,36.5748441,139.2394179,earthquake 
+Japan,36.5748441,139.2394179,earthquake 
+California,36.7014631,-118.7559974,hurricane 
+Chennai,13.0801721,80.2838331,hurricane 
+California,36.7014631,-118.7559974,hurricane 
+Chennai,13.0801721,80.2838331,hurricane 
+California,36.7014631,-118.7559974,fire 
+Chennai,13.0801721,80.2838331,fire 
+Puerto Rico,18.2214149,-66.41328179513847,fire 
+California,36.7014631,-118.7559974,flood 
+California,36.7014631,-118.7559974,hurricane 
+California,36.7014631,-118.7559974,tornado 
+California,36.7014631,-118.7559974,fire 
+Anchorage, Alaska,61.2163129,-149.8948523,earthquake 
+Haiti,19.1399952,-72.3570972,hurricane 
+Japan,36.5748441,139.2394179,tsunami 
+San Francisco,37.7790262,-122.4199061,earthquake 
+Vanuatu,-16.5255069,168.1069154,drought 
+Vanuatu,-16.5255069,168.1069154,hurricane 
+Lima,-12.0621065,-77.0365256,fire 
+Peru,-6.8699697,-75.0458515,fire 
+Australia,-24.7761086,134.755,fire 
+Ins, Switzerland,47.0058984,7.1056472,flood 
+Darwin, Northern Territory,-12.46044,130.8410469,fire 
+Texas,31.8160381,-99.5120986,flood 
+United States,39.7837304,-100.4458825,fire 
+Hohhot,40.8337963,111.6730788,fire 
+Mongolia,46.8250388,103.8499736,fire 
+China,35.000074,104.999927,fire 
+Pakistan,30.3308401,71.247499,earthquake 
+Japan,36.5748441,139.2394179,flood 
+China,35.000074,104.999927,flood 
+Munich,48.1371079,11.5753822,fire 
+Kobe,34.6932379,135.1943764,earthquake 
+Nashville, Tennessee,36.1622296,-86.7743531,flood 
+Nashville, Tennessee,36.1622296,-86.7743531,fire 
+Vanuatu,-16.5255069,168.1069154,hurricane 
+United States,39.7837304,-100.4458825,fire 
+Caribbean,18.4,-75.0,fire 
+Paris,48.8566969,2.3514616,flood 
+Paris,48.8566969,2.3514616,flood 
+Bangladesh,24.4768783,90.2932426,flood 
+Bangladesh,24.4768783,90.2932426,flood 
+Bangladesh,24.4768783,90.2932426,flood 
+Bangladesh,24.4768783,90.2932426,hurricane 
+California,36.7014631,-118.7559974,earthquake 
+San Francisco,37.7790262,-122.4199061,earthquake 
+Russia,64.6863136,97.7453061,flood 
+San Francisco,37.7790262,-122.4199061,earthquake 
+Russia,64.6863136,97.7453061,flood 
+United States Virgin Islands,17.789187,-64.7080574,hurricane 
+Winnipeg,49.8955367,-97.1384584,flood 
+Macau,22.1757605,113.5514142,hurricane 
+Macau,22.1757605,113.5514142,hurricane 
+Macau,22.1757605,113.5514142,hurricane 
+Odessa,46.4873195,30.7392776,flood 
+Federal government of the United States,33.991656,-83.4454305,fire 
+New York City,40.7127281,-74.0060152,fire 
+Galveston, Texas,29.3872254,-94.992736,flood 
+Texas,31.8160381,-99.5120986,flood 
+Galveston, Texas,29.3872254,-94.992736,flood 
+Texas,31.8160381,-99.5120986,flood 
+Galveston, Texas,29.3872254,-94.992736,flood 
+Texas,31.8160381,-99.5120986,flood 
+California,36.7014631,-118.7559974,fire 
+Australia,-24.7761086,134.755,fire 
+Tenterfield, New South Wales,-28.838430000000002,152.28131658123107,drought 
+Tenterfield, New South Wales,-28.838430000000002,152.28131658123107,drought 
+Wallangarra, Queensland,-28.9236829,151.9301231,fire 
+Tenterfield, New South Wales,-28.838430000000002,152.28131658123107,fire 
+Wallangarra, Queensland,-28.9236829,151.9301231,fire 
+California,36.7014631,-118.7559974,hurricane 
+Chennai,13.0801721,80.2838331,hurricane 
+California,36.7014631,-118.7559974,hurricane 
+Chennai,13.0801721,80.2838331,hurricane 
+California,36.7014631,-118.7559974,fire 
+Chennai,13.0801721,80.2838331,fire 
+Puerto Rico,18.2214149,-66.41328179513847,fire 
+Texas,31.8160381,-99.5120986,hurricane 
+Texas,31.8160381,-99.5120986,hurricane 
+Texas,31.8160381,-99.5120986,fire 
+Pensacola, Florida,30.421309,-87.2169149,tornado 
+Los Angeles,34.0536909,-118.2427666,earthquake 
+Japan,36.5748441,139.2394179,earthquake 
+Japan,36.5748441,139.2394179,tsunami 
+Japan,36.5748441,139.2394179,tsunami 
+Japan,36.5748441,139.2394179,tsunami 
+Toronto,43.6534817,-79.3839347,flood 
+Iran,32.6475314,54.5643516,earthquake 
+Los Angeles,34.0536909,-118.2427666,earthquake 
+Pope,37.3933531,-88.5904425,flood 
+Rome,41.8933203,12.4829321,flood 
+Pope,37.3933531,-88.5904425,flood 
+New York City,40.7127281,-74.0060152,flood 
+Caribbean,18.4,-75.0,hurricane 
+California,36.7014631,-118.7559974,hurricane 
+Chennai,13.0801721,80.2838331,hurricane 
+California,36.7014631,-118.7559974,hurricane 
+Chennai,13.0801721,80.2838331,hurricane 
+California,36.7014631,-118.7559974,fire 
+Chennai,13.0801721,80.2838331,fire 
+Puerto Rico,18.2214149,-66.41328179513847,fire 
+United States,39.7837304,-100.4458825,fire 
+Australia,-24.7761086,134.755,fire 
+Sri Lanka,7.5554942,80.7137847,tsunami 
+Tennessee,35.7730076,-86.2820081,tornado 
+Sacramento, California,38.5815719,-121.4943996,fire 
+Laos,20.0171109,103.378253,flood 
+Vietnam,13.2904027,108.4265113,flood 
+Mexico,19.4326296,-99.1331785,hurricane 
+Mexico,19.4326296,-99.1331785,tornado 
+Balochistan, Pakistan,28.0,66.0,drought 
+Balochistan, Pakistan,28.0,66.0,drought 
+Balochistan, Pakistan,28.0,66.0,flood 
+Balochistan, Pakistan,28.0,66.0,flood 
+Balochistan, Pakistan,28.0,66.0,hurricane 
+Balochistan, Pakistan,28.0,66.0,earthquake 
+Balochistan, Pakistan,28.0,66.0,earthquake 
+Quetta,30.1957422,67.017246,earthquake 
+Tennessee,35.7730076,-86.2820081,drought 
+Tennessee,35.7730076,-86.2820081,flood 
+Thailand,14.8971921,100.83273,drought 
+Sri Lanka,7.5554942,80.7137847,tsunami 
+Ooltewah, Tennessee,35.072036,-85.08885976005197,tornado 
+Japan,36.5748441,139.2394179,earthquake 
+Myanmar,17.1750495,95.9999652,hurricane 
+Florence,43.7698712,11.2555757,fire 
+Yemen,16.3471243,47.8915271,flood 
+Yemen,16.3471243,47.8915271,flood 
+San Francisco,37.7790262,-122.4199061,earthquake 
+Western United States,40.393614,-97.198095,fire 
+United States,39.7837304,-100.4458825,fire 
+Western United States,40.393614,-97.198095,earthquake 
+United States,39.7837304,-100.4458825,earthquake 
+Miami,25.7742658,-80.1936589,flood 
+Charleston, South Carolina,32.7876012,-79.9402728,flood 
+South Carolina,33.6874388,-80.4363743,flood 
+Ukraine,49.4871968,31.2718321,fire 
+Belarus,53.4250605,27.6971358,fire 
+Ukraine,49.4871968,31.2718321,fire 
+Russia,64.6863136,97.7453061,fire 
+Ukraine,49.4871968,31.2718321,fire 
+Russia,64.6863136,97.7453061,fire 
+Ukraine,49.4871968,31.2718321,fire 
+Ukraine,49.4871968,31.2718321,fire 
+Ukraine,49.4871968,31.2718321,fire 
+United Nations,40.75026105,-73.96719495316776,fire 
+Paris,48.8566969,2.3514616,fire 
+Australia,-24.7761086,134.755,fire 
+Pennsylvania,40.9699889,-77.7278831,fire 
+Australia,-24.7761086,134.755,fire 
+Lisbon,38.7077507,-9.1365919,fire 
+Portugal,40.0332629,-7.8896263,fire 
+Lisbon,38.7077507,-9.1365919,earthquake 
+Lisbon,38.7077507,-9.1365919,earthquake 
+Portugal,40.0332629,-7.8896263,earthquake 
+Portugal,40.0332629,-7.8896263,tsunami 
+Yemen,16.3471243,47.8915271,flood 
+Aden,12.833333,44.916667,flood 
+Canada,61.0666922,-107.9917071,flood 
+Canada,61.0666922,-107.9917071,flood 
+Ethiopia,10.2116702,38.6521203,flood 
+Dire Dawa,9.5913193,41.8566373,flood 
+Ethiopia,10.2116702,38.6521203,flood 
+Dire Dawa,9.5913193,41.8566373,flood 
+Ethiopia,10.2116702,38.6521203,flood 
+Somalia,8.3676771,49.083416,flood 
+Saudi Arabia,25.6242618,42.3528328,flood 
+Colombia,2.8894434,-73.783892,flood 
+Kenya,1.4419683,38.4313975,flood 
+Arusha,-3.427534,36.70858481848994,flood 
+Tanzania,-6.5247123,35.7878438,flood 
+Djibouti,11.8145966,42.8453061,flood 
+Djibouti (city),11.8145966,42.8453061,flood 
+Djibouti,11.8145966,42.8453061,flood 
+Djibouti (city),11.8145966,42.8453061,flood 
+Djibouti,11.8145966,42.8453061,flood 
+Democratic Republic of the Congo,-2.9814344,23.8222636,flood 
+Canada,61.0666922,-107.9917071,fire 
+Maine,45.709097,-68.8590201,flood 
+Afghanistan,33.7680065,66.2385139,drought 
+Afghanistan,33.7680065,66.2385139,flood 
+Afghanistan,33.7680065,66.2385139,earthquake 
+Spain,39.3262345,-4.8380649,flood 
+Russia,64.6863136,97.7453061,flood 
+Spain,39.3262345,-4.8380649,fire 
+Russia,64.6863136,97.7453061,fire 
+Albania,41.000028,19.9999619,earthquake 
+Central Asia,-25.359215,-57.5832737,earthquake 
+Asia,51.2086975,89.2343748,earthquake 
+France,46.603354,1.8883335,earthquake 
+Albania,41.000028,19.9999619,earthquake 
+Australia,-24.7761086,134.755,fire 
+Australia,-24.7761086,134.755,fire 
+California,36.7014631,-118.7559974,fire 
+Australia,-24.7761086,134.755,fire 
+California,36.7014631,-118.7559974,fire 
+Australia,-24.7761086,134.755,fire 
+Belarus,53.4250605,27.6971358,flood 
+European Union,42.6788082,23.3216264,flood 
+Belarus,53.4250605,27.6971358,hurricane 
+European Union,42.6788082,23.3216264,hurricane 
+Lithuania,55.3500003,23.7499997,hurricane 
+Belarus,53.4250605,27.6971358,earthquake 
+Lithuania,55.3500003,23.7499997,earthquake 
+Lithuania,55.3500003,23.7499997,earthquake 
+Belarus,53.4250605,27.6971358,earthquake 
+Belarus,53.4250605,27.6971358,earthquake 
+European Union,42.6788082,23.3216264,earthquake 
+Japan,36.5748441,139.2394179,tsunami 
+Australia,-24.7761086,134.755,fire 
+California,36.7014631,-118.7559974,fire 
+Australia,-24.7761086,134.755,fire 
+California,36.7014631,-118.7559974,fire 
+Australia,-24.7761086,134.755,fire 
+Macau,22.1757605,113.5514142,earthquake 
+Macau,22.1757605,113.5514142,earthquake 
+Macau,22.1757605,113.5514142,earthquake 
+Macau,22.1757605,113.5514142,earthquake 
+Hong Kong,22.2793278,114.1628131,earthquake 
+Hong Kong,22.2793278,114.1628131,earthquake 
+Macau,22.1757605,113.5514142,earthquake 
+Xiangzhou District, Zhuhai,22.2661159,113.5416798,earthquake 
+Zhuhai,22.2305196,113.5462439,earthquake 
+Macau,22.1757605,113.5514142,earthquake 
+Macau,22.1757605,113.5514142,earthquake 
+Macau,22.1757605,113.5514142,earthquake 
+Indonesia,-2.4833826,117.8902853,earthquake 
+Taiwan,23.9739374,120.9820179,earthquake 
+Indonesia,-2.4833826,117.8902853,earthquake 
+Taiwan,23.9739374,120.9820179,earthquake 
+Philippines,12.7503486,122.7312101,earthquake 
+Wuhan,30.5951051,114.2999353,fire 
+Japan,36.5748441,139.2394179,earthquake 
+Ohio,40.2253569,-82.6881395,earthquake 
+Germany,51.0834196,10.4234469,earthquake 
+Chile,-31.7613365,-71.3187697,earthquake 
+United States,39.7837304,-100.4458825,earthquake 
+Philippines,12.7503486,122.7312101,earthquake 
+Japan,36.5748441,139.2394179,earthquake 
+Japan,36.5748441,139.2394179,earthquake 
+Chile,-31.7613365,-71.3187697,earthquake 
+Indonesia,-2.4833826,117.8902853,earthquake 
+Chile,-31.7613365,-71.3187697,earthquake 
+Indonesia,-2.4833826,117.8902853,earthquake 
+Chile,-31.7613365,-71.3187697,tsunami 
+Indonesia,-2.4833826,117.8902853,tsunami 
+Japan,36.5748441,139.2394179,earthquake 
+Japan,36.5748441,139.2394179,tsunami 
+Asia,51.2086975,89.2343748,drought 
+India,22.3511148,78.6677428,earthquake 
+Japan,36.5748441,139.2394179,earthquake 
+California,36.7014631,-118.7559974,hurricane 
+Chennai,13.0801721,80.2838331,hurricane 
+California,36.7014631,-118.7559974,hurricane 
+Chennai,13.0801721,80.2838331,hurricane 
+California,36.7014631,-118.7559974,fire 
+Chennai,13.0801721,80.2838331,fire 
+Puerto Rico,18.2214149,-66.41328179513847,fire 
+Brazil,-10.3333333,-53.2,fire 
